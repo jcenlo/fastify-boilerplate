@@ -3,6 +3,8 @@ Fastify boilerplate with typescript, tests and swagger
 
 # This boilerplate is a mix of others for a minimum configuration.
 
+- [fastify-typescript-starter](https://github.com/yonathan06/fastify-typescript-starter)
+
 ## Features
 
 - Typescript + eslint + Prettier
