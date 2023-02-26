@@ -3,6 +3,15 @@ Fastify boilerplate with typescript, tests and swagger
 
 # This boilerplate is a mix of others for a minimum configuration.
 
+## Features
+
+- Typescript + eslint + Prettier
+- Routes are automatically generated on the base of the folders.
+- Documentation is automatically generated in OpenAPI as you create endpoints.
+- Connectors for MongoDB and MySQL
+- Added JWT
+- CORS-ready
+
 ## Fastify Plugins
 
 - [@fastify/autoload](https://github.com/fastify/fastify-autoload)
